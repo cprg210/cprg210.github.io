@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CPRG 210: Web Application Development
+title: Web Application Development
 email: tony.grimes@sait.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Online course materials for the Web Application Development course (CPRG 210).
