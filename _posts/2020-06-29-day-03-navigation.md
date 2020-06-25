@@ -1,16 +1,16 @@
 ---
-title: "Day 1: Introductions, Setup and HTML"
-date: 2020-06-25T08:00-03:00
+title: "Day 3: Navigation and Accessibility"
+date: 2020-06-29T08:00-03:00
 categories:
   - schedule
 tags:
   - html
 ---
-## [bridge-in]
+## [Bridge-in]
 - what will we have to show for it at the end of the day?
 - why should they care?
 - pre-requisites? 
-  - repetition
+  - where's the spiral?
 
 ## Lecture 1: [Plan]
 - objective?
@@ -18,15 +18,9 @@ tags:
 - expectations?
 
 [break]
-## Activity 1a: Tool-time
-You will work on this activity individually.
-1. Install the following browsers:
-    - Firefox and Firefox Developer
-    - Chrome
-2. Install VS Code (if needed)
-3. Create a Codepen account
-
-## Activity 1b: 
+## Activity 1: [tool-time|brute-force|treasure-hunt]
+- individual or paired?
+- restate objective
 
 ## Mid-day Huddle
 - who needs help?
