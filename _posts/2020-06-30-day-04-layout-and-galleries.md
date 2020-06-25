@@ -1,11 +1,11 @@
 ---
-title: "Day 3: Navigation and Cards"
+title: "Day 4: Layout and Galleries"
 date: 2020-06-29T08:00-03:00
 categories:
   - schedule
 tags:
   - html
-excerpt: It's starting to look like a web page! Let's add some social media links, and expand our hero section.
+excerpt: No travel website is complete without galleries. We'll talk about some ways that we can layout our content responsively.
 ---
 ## Prep
 

@@ -1,0 +1,19 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<h1>Schedule</h1>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% for post in posts reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}

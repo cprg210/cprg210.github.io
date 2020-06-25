@@ -5,33 +5,39 @@ categories:
   - schedule
 tags:
   - html
+published: false
 ---
-## [Bridge-in]
+## Prep
+
+## Topics and Goals
 - what will we have to show for it at the end of the day?
-- why should they care?
-- pre-requisites? 
-  - repetition
+- why should I care?
+- topics covered?
 
 ## Lecture 1: [Plan]
 - objective?
-- topics covered?
 - expectations?
 
-[break]
+[*break(s)*]
+
 ## Activity 1: [tool-time|brute-force|treasure-hunt]
 - individual or paired?
 - restate objective
+
+## Optional: Lecture 1b
 
 ## Mid-day Huddle
 - who needs help?
 - any pivots?
 - any show-and-tell?
-[lunch]
+
+[*lunch*]
 
 ## Lecture 2: [walk-through|icing]
 - what did we learn?
 - real-world example?
-[break]
+
+[*break*]
 
 ## Activity 2: [optimize|extend]
 - paired or team?

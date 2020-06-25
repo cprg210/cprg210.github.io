@@ -8,6 +8,9 @@ title: "Tools of the Trade"
 - [Visual Studio Code Can Do That?](https://www.smashingmagazine.com/2018/01/visual-studio-code/)
 - [7 open source alternatives to VS Code](https://opensource.com/article/20/6/open-source-alternatives-vs-code)
 
+## Git and GitHub
+- See: [Git and GitHub](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/GitHub) in the textbook
+
 ## Firefox DevTools
 - [Why are there four Firefoxes?](https://www.youtube.com/watch?v=qQ1oQJJn1nQ)
 - [Where do browser styles come from?](https://youtu.be/spK_S0HfzFw)
