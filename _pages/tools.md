@@ -26,6 +26,10 @@ title: "Tools of the Trade"
 - [Can I Use](https://caniuse.com/) tells you what browsers support which element/property/whatever
 - Video: [The Secrets of ‘Can I Use’](https://www.youtube.com/watch?v=WM_cKHH7bZ0)
 
+## Browser Sandboxes
+- [Codepen.io](https://codepen.io/) for frontend
+- [Repl.it](https://repl.it/) for frontend and backend
+
 ## Colour
 - [Colour Contrast Checker](https://contrast-ratio.com/) helps with accessibility
 - [Color Inspo](https://colorsinspo.com/) helps you pick nice colours

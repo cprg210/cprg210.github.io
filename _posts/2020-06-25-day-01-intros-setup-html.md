@@ -93,6 +93,8 @@ Tony codes a simple blog post.
 
 Find an article on [Wikipedia](https://www.wikipedia.org/) that interests you. You will be coding this content into HTML in the next activity.
 
+Video: [Introduction to Pair Programming](https://www.youtube.com/watch?v=vgkahOzFH2Q)
+
 [break]
 
 ## Activity 2: Your first HTML blog post
@@ -107,5 +109,8 @@ See: [HTML text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTM
 
 ## Summary
 - any trophies?
-- prep for tomorrow?
+- prep for tomorrow
+  - Find some favourite Google Fonts for your text
+    - Search: [best google font combinations](https://www.google.com/search?client=firefox-b-d&q=best+google+font+combinations)
+    - [Google Fonts](https://fonts.google.com/)
 - applause
