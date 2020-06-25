@@ -7,6 +7,11 @@ tags:
   - html
 excerpt: It's starting to look like a web page! Let's add some social media links, and expand our hero section.
 ---
+## Reminders for Tony
+1. Put on mic
+2. Open Zoom chat
+3. Record! Anyone else?
+
 ## Prep
 
 ## Topics and Goals

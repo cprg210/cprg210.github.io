@@ -2,6 +2,12 @@
 permalink: /resources/
 title: "Additional Resources"
 ---
+## Design patterns
+- Search: [css typography](https://www.google.com/search?q=css+typography)
+- Search: [responsive navigation](https://www.google.com/search?q=responsive+navigation)
+- Search: [best hero sections](https://www.google.com/search?q=hero+sections)
+- Search: [card pattern](https://www.google.com/search?q=ux+card+pattern)
+
 ## Learning Games
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
@@ -11,6 +17,7 @@ title: "Additional Resources"
 SO is Quora for developers. 80% of your searches on common problems will point to this site. Some highlights:
 - [Block vs Inline vs Inline-Block](https://stackoverflow.com/questions/9189810/css-display-inline-vs-inline-block)
 - [Difference between @font-face and @import url?](https://stackoverflow.com/questions/56141957/difference-between-font-face-and-import-url)
+- [button vs input](https://stackoverflow.com/questions/37736056/button-type-button-vs-submit)
 
 ## Colour
 - Video: [Reading Colour Hexcodes](https://www.youtube.com/watch?v=eqZqx6lRPe0)

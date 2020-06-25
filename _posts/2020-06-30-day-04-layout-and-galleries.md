@@ -7,6 +7,11 @@ tags:
   - html
 excerpt: No travel website is complete without galleries. We'll talk about some ways that we can layout our content responsively.
 ---
+## Reminders for Tony
+1. Put on mic
+2. Open Zoom chat
+3. Record! Anyone else?
+
 ## Prep
 
 ## Topics and Goals
