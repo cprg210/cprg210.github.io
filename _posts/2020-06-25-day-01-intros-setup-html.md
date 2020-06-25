@@ -101,6 +101,7 @@ You will be working in pairs. Take either/both articles you have chosen and code
 - `p`
 - `a`
 - `strong`, `em`
+- `ul` and/or `ol`
 See: [HTML text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
 
 ## Summary
