@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Web Application Development
+title: CPRG 210 - Web Application Development
 email: tony.grimes@sait.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Online course materials for the Web Application Development course (CPRG 210).
 github_username: cprg210
 minimal_mistakes_skin: default
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -57,17 +57,14 @@ plugins:
 author:
   name   : "Tony Grimes"
   avatar : "/assets/images/tony.jpg"
-  bio    : "Adjunct instructor at SAIT."
+  bio    : "Adjunct Instructor at SAIT."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "http://browsertherapy.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tony.grimes@sait.ca"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/acidtone"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/acidtone"
 
 footer:
   links:

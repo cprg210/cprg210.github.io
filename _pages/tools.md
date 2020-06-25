@@ -7,6 +7,10 @@ title: "Tools of the Trade"
 
 ## Firefox Inspector
 
+## Can I Use?
+
+## Stack Overflow
+
 ## Codepen
 
 ## Lorem Picsum
