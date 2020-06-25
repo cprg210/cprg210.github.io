@@ -7,6 +7,23 @@ title: "Additional Resources"
 - [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
 - [CSS Grid Garden](https://cssgridgarden.com/)
 
+## Stack Overflow
+SO is Quora for developers. 80% of your searches on common problems will point to this site. Some highlights:
+- [Block vs Inline vs Inline-Block](https://stackoverflow.com/questions/9189810/css-display-inline-vs-inline-block)
+- [Difference between @font-face and @import url?](https://stackoverflow.com/questions/56141957/difference-between-font-face-and-import-url)
+
+## Colour
+- Video: [Reading Colour Hexcodes](https://www.youtube.com/watch?v=eqZqx6lRPe0)
+- Article: [HSL() / HSLa() is great for programmatic color control](https://css-tricks.com/hsl-hsla-is-great-for-programmatic-color-control/)
+
+## Fonts
+- Article: [Font stacks for Window & Mac browsers](https://coderwall.com/p/57imrw/common-fonts-for-windows-mac)
+- Search: "[best google font pairings](https://www.google.com/search?q=best+google+font+pairings)"
+- Article: [On Web Typography](https://alistapart.com/article/on-web-typography/)
+- Article: [Font Fallbacks](https://css-tricks.com/css-basics-fallback-font-stacks-robust-web-typography/)
+- Article: [Typography for Developers](https://css-tricks.com/typography-for-developers/)
+- Article: [Icon Fonts are Awesome](https://css-tricks.com/examples/IconFont/)
+
 ## Nerds to Follow
 - [Brad Traversy](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) (Youtube)
   - [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)

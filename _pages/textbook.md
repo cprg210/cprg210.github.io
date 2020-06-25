@@ -7,6 +7,7 @@ toc: true
 - [Getting started with Web Development](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 - [HTML basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [CSS basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+  - Video: [Why is CSS So Weird?](https://www.youtube.com/watch?v=aHUtMbJw8iA)
 - [Javascript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Javascript_basics)
 
 ## Common questions
