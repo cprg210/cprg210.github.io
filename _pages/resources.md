@@ -16,10 +16,12 @@ title: "Additional Resources"
 ## Stack Overflow
 SO is Quora for developers. 80% of your searches on common problems will point to this site. Some highlights:
 - [Block vs Inline vs Inline-Block](https://stackoverflow.com/questions/9189810/css-display-inline-vs-inline-block)
-- [Difference between @font-face and @import url?](https://stackoverflow.com/questions/56141957/difference-between-font-face-and-import-url)
+- [Including Google Web Fonts link or import?](https://stackoverflow.com/questions/12316501/including-google-web-fonts-link-or-import)
 - [button vs input](https://stackoverflow.com/questions/37736056/button-type-button-vs-submit)
+- Any others?
 
 ## Colour
+- [A Nerd’s Guide to Color on the Web](https://css-tricks.com/nerds-guide-color-web/)
 - Video: [Reading Colour Hexcodes](https://www.youtube.com/watch?v=eqZqx6lRPe0)
 - Article: [HSL() / HSLa() is great for programmatic color control](https://css-tricks.com/hsl-hsla-is-great-for-programmatic-color-control/)
 

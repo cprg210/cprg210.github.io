@@ -5,6 +5,8 @@ main:
     url: /tools/
   - title: "Resources"
     url: /resources/
+  - title: "Search Tips"
+    url: /search-tips/
 
   # - title: "Categories"
   #   url: /categories/
