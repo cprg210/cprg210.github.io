@@ -1,5 +1,5 @@
 ---
-permalink: /search-hints/
+permalink: /search-tips/
 title: "Search Term Tips"
 ---
 ## Finding correct syntax
