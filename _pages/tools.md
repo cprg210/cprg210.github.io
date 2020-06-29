@@ -40,3 +40,9 @@ title: "Tools of the Trade"
   - [Pexels](https://www.pexels.com/)
   - [Pixabay](https://pixabay.com/)
   - [Unsplash](https://unsplash.com/)
+
+## Validators
+- [W3C HTML Validator](https://validator.w3.org/)
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+- VS Code Extension: [HTML Lint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
+- VS Code Extension: [ES Lint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) (Javascript validator)

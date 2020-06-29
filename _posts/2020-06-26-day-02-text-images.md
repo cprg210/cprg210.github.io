@@ -1,5 +1,5 @@
 ---
-title: "Day 2: Text, Headers and Hero Sections"
+title: "Day 2: Web Typography and Floated HTML Images"
 date: 2020-06-26T08:00-15:00
 categories:
   - schedule
@@ -43,12 +43,11 @@ Using the text example from yesterday, we will:
 - Use the font inspector to investigate the font settings of a website.
 - Change the default font.
 - Balance `font-size`, line length (`width`) and `line-height`
-- Add an HTML image and float text around it
-- Make it minimally responsive
+- Make it minimally responsive with `max-width`
 
 [*break*]
 
-## Activity 1: Brute-force a solution
+## Activity 1: Brute-force solution
 This will be a paired activity.
 
 The "blog post" you create can be on any topic but keep your text readable:
@@ -56,23 +55,22 @@ The "blog post" you create can be on any topic but keep your text readable:
 - lots of headings
 - bulleted or numbered lists where appropriate
 
-## Lecture/Live-code: Page Header
+## Lecture/Live-code: Floated HTML image
 ### Objectives
 Continuing with your project, try the following:
-- Create a `header` section.
-- Add a logo as an HTML image ([example](https://acidtone.github.io/images/bt-logo.svg)) with a company title that is left-aligned.
-- Lay out the header so that the company name ([Tony's random band name generator](https://acidtone.github.io/namor/)) sits to the right of the logo.
-- Change the colour of the `header` background. Try improving this with a `linear-gradient()`.
+- Add a 300x300 pixel HTML image to your page using the `img` tag.
+- Float your text around the image using the `float` property.
+- A *keyline* is a print industry term for the 1px border you sometimes see around an image. Try adding one to your HTML image using the `border` property.
+- For fun, make the image look like a [polaroid](https://www.google.com/search?q=polaroid+image) using the `padding` property.
+- Try rounding the corners of the image using the `border-radius` property.
 
 [*break*]
 
 ## Activity 2: Brute-force a solution
 You will be working in pairs.
-- Try creating a header similar to the Instructor example.
-- Also, find examples of page headers in the wild.
-- What are some of the design patterns (conventions you're seeing).
-- How will you adapt that to your project? What elements/properties are they using? How will you find this information?
-- Try emulating (i.e. coding) one or two of these effects into your project.
+- Repeat the steps your instructor just demonstrated.
+- Can you make a circular image using the `border-radius` property?
+- What other image effects do you see online that you'd like to try?
 
 ## Mid-day Huddle
 - who needs help?
@@ -82,9 +80,73 @@ You will be working in pairs.
 [*lunch*]
 
 ## Lecture 3: Code Walk-through
+See the finished [sample post](https://codepen.io/browsertherapy/pen/JjGJxZP):
 - What did we learn?
 - What are the best practices
 - What can be improved in your code?
+
+### Web Typography
+Web typography usually starts with choosing a font pairing for headings and body text:
+
+```css
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Raleway:wght@300;400&display=swap');
+
+/* Font */
+body {
+  font-family: 'Karla', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+}
+```
+
+Then we set up the "typography triad": font size, line height (aka. leading) and line length. They all depend on your chosen font family and each other. Typographers coined the term "vertical rhythm" to describe the balance of text to white space on the printed page. The same principles apply here.
+
+```css
+  /* browser default is usually 16px */
+  font-size: 14px; 
+  
+  /* browser default is usually 1.2 (other length units allowed). Try for a minimum of 1.5, max should be less than 2 */
+  line-height: 1.7; 
+  
+  /* line length: max for print should be 80-95 characters; */
+  /* for web: aim for 25-75ch */ 
+  max-width: 60ch;
+```
+
+### Layout
+Now that our text is balanced, let's get our page balanced by centering the entire text block.
+
+```css
+.text-box {
+  /* This is centering from the outside of the box. This only works if the centered item is narrower than its parent. */
+  margin: auto;
+}
+```
+
+### Imagery
+Floating text around images has been done for centuries. It's fallen out of style online but it's a nice tool to have in your kit.
+
+```css
+.image {
+  float: left;
+}
+```
+
+We can make the image circular and float the text to match:
+
+```css
+.image {
+  border-radius: 50%;
+  shape-outside: circle(50%);
+}
+```
+
+This is assuming the image is square. With other aspect ratios, `border-radius: 50%` will create an ellipse (which can be matched by `shape-outside`).
+{: .notice--warning}
+
 
 [*break*]
 
@@ -95,9 +157,8 @@ This will be working in pairs.
   - use quotes for attribute values
   - fix your indentation
   - centre the text in the page with `margin: auto`
-  - optional: try making a circular image with `border-radius`
   - optional: try floating your text in a circle with `shape-outside`
-  - optional: try validating your code
+  - optional: try validating your code with the W3C HTML validator
 
 ## Summary
 - any trophies?

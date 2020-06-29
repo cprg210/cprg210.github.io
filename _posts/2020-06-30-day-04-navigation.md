@@ -1,11 +1,11 @@
 ---
-title: "Day 4: Layout and Galleries"
+title: "Day 4: Flexbox Navigation"
 date: 2020-06-29T08:00-03:00
 categories:
   - schedule
 tags:
   - html
-excerpt: No travel website is complete without galleries. We'll talk about some ways that we can layout our content responsively.
+excerpt: No multi-page website is complete without navigation. Luckily, Flexbox makes this easier than it was.
 ---
 ## Reminders for Tony
 1. Put on mic
