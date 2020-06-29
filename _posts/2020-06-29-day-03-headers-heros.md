@@ -16,6 +16,7 @@ excerpt: Home pages often have large hero sections to grab the user's attention.
 ## Prep
 - [Document and Website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 - [Backgrounds and borders](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Backgrounds_and_borders)
+- Accessibility: [Colour contrast](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG/Perceivable/Color_contrast)
 - Videos by Jen Simmons
   - [Introduction to Viewport Units](https://youtu.be/_sgF8I-Q1Gs)
   - [Designing for a Viewport](https://youtu.be/QY3lTBZnJmE)
@@ -36,9 +37,11 @@ Discussion: common page sections and their corresponding *semantic* elements:
 - `footer`
 
 ### Live-code: Header section
-Continuing with your project, we'll expand on our text-centric page (which could be a blog post, about page, etc) and begin building our page header.
+[Starting Codepen](https://codepen.io/browsertherapy/pen/JjGJxZP)
 
-#### Objectives
+Continuing with your project (or the starting code above), we'll expand on our text-centric page (which could be a blog post, about page, etc) and begin building a page header with footer.
+
+#### Header Objectives
 1. Add a company/organization/website name ([Tony's random band name generator](https://acidtone.github.io/namor/)) inside a new `header` above your content.
 2. Add a coloured background to the `header` element using the `background-color` property.
 3. Change the colour of the company name using the `color` property (while ensuring proper colour contrast).
@@ -46,8 +49,16 @@ Continuing with your project, we'll expand on our text-centric page (which could
     - Change your title text with `font-variant: small-caps`. What other effects can to implement?
     - Enhance the background of your header with `linear-gradient()`.
     - Add a logo as an HTML image ([example](https://acidtone.github.io/images/bt-logo.svg)) to the left of the page title (don't forget: `img` elements are `inline` by default).
+    
+#### Footer Objectives
+1. Add a page footer at the bottom of your page using the `footer` element.
+2. Inside the footer, include the text Copyright 2020 [your name]
+3. Make it pretty:
+    - Centre the text in the footer.
+    - Change the background.
+    - Ensure the contrast ratio of your text is readable.
 
-### Activity: Make your own header section
+### Activity: Make your own header and footer sections
 You will be working in pairs. 
 - Find examples of page headers online.
 - What are some of the design patterns (conventions) you're seeing? Can any be incorporated into your design?
