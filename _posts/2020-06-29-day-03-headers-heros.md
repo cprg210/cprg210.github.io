@@ -86,12 +86,6 @@ Let's turn our header section into a hero section.
     - What direction does `justify-content` affect, by default? `align-items`?
     - What width does your title need to be? Is the default (100%) good enough?
 
-### Activity: Adapt your header section into a hero section
-You will be working in pairs. Start a new codepen based on your header page (or start fresh) so you have a copy for both home and internal pages.
-- Are there any other ways of increasing the size of the `header` besides using the `height` property?
-- Try using a `linear-gradient()` with the CSS background image to achieve different effects.
-- When using Flexbox pay careful attention to the container/item relationship.
-
 ## Mid-day Huddle
 - who needs help?
 - any pivots?
@@ -99,13 +93,19 @@ You will be working in pairs. Start a new codepen based on your header page (or 
 
 [*lunch*]
 
+### Activity: Adapt your header section into a hero section
+You will be working in pairs. Start a new codepen based on your header page (or start fresh) so you have a copy for both home and internal pages.
+- Are there any other ways of increasing the size of the `header` besides using the `height` property?
+- Try using a `linear-gradient()` with the CSS background image to achieve different effects.
+- When using Flexbox pay careful attention to the container/item relationship.
+
 ## Code Walk-through
 - what did we learn?
 - real-world example?
 
 [*break*]
 
-## Activity 2: Optimize and extend
+## Activity: Optimize and extend
 - paired or team?
 - How can your code be cleaned up?
 
