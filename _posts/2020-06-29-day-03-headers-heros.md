@@ -52,7 +52,7 @@ Continuing with your project (or the starting code above), we'll expand on our t
     
 #### Footer Objectives
 1. Add a page footer at the bottom of your page using the `footer` element.
-2. Inside the footer, include the text Copyright 2020 [your name]
+2. Inside the footer, include the text Copyright 2020 [your name]. Try using an [HTML entity](https://www.google.com/search?q=html+entities) to add a copyright symbol.
 3. Make it pretty:
     - Centre the text in the footer.
     - Change the background.

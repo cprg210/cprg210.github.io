@@ -120,7 +120,7 @@ Then we set up the "typography triad": font size, line height (aka. leading) and
 Now that our text is balanced, let's get our page balanced by centering the entire text block.
 
 ```css
-.text-box {
+.center-box {
   /* This is centering from the outside of the box. This only works if the centered item is narrower than its parent. */
   margin: auto;
 }
