@@ -13,13 +13,20 @@ excerpt: No multi-page website is complete without navigation. Luckily, Flexbox 
 3. Record! Anyone else?
 
 ## Prep
+- [Styling lists](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists)
+- [Styling links](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links)
+- Flexbox
+  - Summary: [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - Reference: [`flex` property](https://css-tricks.com/almanac/properties/f/flex/)
+  - Game: [Flexbox Froggy](https://flexboxfroggy.com/)
+  - Game: [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
 
 ## Topics and Goals
 - what will we have to show for it at the end of the day?
 - why should I care?
 - topics covered?
 
-## Lecture 1: [Plan]
+## Lecture 1: 
 - objective?
 - expectations?
 

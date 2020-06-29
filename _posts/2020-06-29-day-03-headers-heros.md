@@ -75,7 +75,7 @@ Discussion: three technologies will help us make big and bold hero sections that
 ### Live-code: A basic hero section 
 Let's turn our header section into a hero section.
 
-#### Objectives
+#### Hero Objectives
 1. Using viewport units, we'll expand the height of the `header` element so that it covers more than 50% of the page.
 2. Use the following properties (and Lorem Picsum) to add a background image to your `header` section:
     - `background-image`
