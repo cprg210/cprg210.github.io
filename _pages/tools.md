@@ -2,6 +2,21 @@
 permalink: /tools/
 title: "Tools of the Trade"
 ---
+## Search Tips
+### Finding correct syntax
+A general strategy for finding the correct syntax for HTML or CSS:
+1. Don't memorize; you will naturally remember through repetition.
+2. Search the internet with a term such as: `[enitity name] [entity type]`.
+3. In the results, skip past "W3Schools" and scroll to the top "Mozilla Developer Network" link. It will usually have examples of the proper syntax with descriptions.
+
+#### Examples
+- HTML
+  - `img tag` or `img element`
+  - `a tag` or `a element`
+- CSS
+  - `width property`
+  - `font-size property`
+
 ## VS Code
 - [VS Code](https://code.visualstudio.com/)
 - [15 VS Code Extensions For Front-End Developers in 2019](https://youtu.be/LdF2RcelRg0)
