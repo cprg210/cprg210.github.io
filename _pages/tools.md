@@ -1,6 +1,7 @@
 ---
 permalink: /tools/
 title: "Tools of the Trade"
+toc: true
 ---
 ## Search Tips
 ### Finding correct syntax

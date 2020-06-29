@@ -1,6 +1,7 @@
 ---
 permalink: /resources/
 title: "Additional Resources"
+toc: true
 ---
 ## Design patterns
 - Search: [css typography](https://www.google.com/search?q=css+typography)
