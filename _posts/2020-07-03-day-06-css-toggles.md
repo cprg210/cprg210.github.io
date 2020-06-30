@@ -1,6 +1,6 @@
 ---
 title: "Day 6: CSS Toggles with `element.classList`"
-date: 2020-06-25T08:00-03:00
+date: 2020-07-03T08:00-03:00
 categories:
   - schedule
 tags:
