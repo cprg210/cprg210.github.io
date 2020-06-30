@@ -30,15 +30,13 @@ excerpt: Now that we have some HTML work with, we'll begin styling the text, ins
   - Aim for images that have a large areas of consistent colour/contrast
 
 ## Goals
-- what will we have to show for it at the end of the day? We will take the blog post from yesterday and then:
-  1. make our text pretty
-  2. make it centered
-  3. add a page header
-  4. turn that header into a hero section
-- why should I care?
+Today, we will take the blog post from yesterday and then:
+1. add some custom fonts;
+2. customize: font size, line height and line length;
+3. add an HTML image to our text;
+4. `float` the text around the image.
 
 ## Lecture/Live-code: Web typography
-### Objectives
 Using the text example from yesterday, we will:
 - Use the font inspector to investigate the font settings of a website.
 - Change the default font.
@@ -61,7 +59,7 @@ Continuing with your project, try the following:
 - Add a 300x300 pixel HTML image to your page using the `img` tag.
 - Float your text around the image using the `float` property.
 - A *keyline* is a print industry term for the 1px border you sometimes see around an image. Try adding one to your HTML image using the `border` property.
-- For fun, make the image look like a [polaroid](https://www.google.com/search?q=polaroid+image) using the `padding` property.
+- For fun, make the image look like a [polaroid](https://www.google.com/search?q=polaroid+image&tbm=isch) using the `padding` property.
 - Try rounding the corners of the image using the `border-radius` property.
 
 [*break*]
@@ -91,7 +89,6 @@ Web typography usually starts with choosing a font pairing for headings and body
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Karla&family=Raleway:wght@300;400&display=swap');
 
-/* Font */
 body {
   font-family: 'Karla', sans-serif;
 }

@@ -100,10 +100,56 @@ You will be working in pairs. Start a new codepen based on your header page (or 
 - When using Flexbox pay careful attention to the container/item relationship.
 
 ## Code Walk-through
-- what did we learn?
-- real-world example?
+See the finished sample code from this morning:
+- [Sample blog post with page header](https://codepen.io/browsertherapy/pen/KKVXZXw)
+- [Sample blog post with hero section](https://codepen.io/browsertherapy/pen/abdLYyb)
 
-[*break*]
+### Controlling background size 
+Today we looked at two ways to increase the size of the visible background of a container element.
+
+```html
+<header>
+  <h1>Hello World!</h1>
+</header>
+```
+
+First, we can "push" out from the inside using padding. This has the added benefit of vertically cetering the content in the container and is useful for internal page headers.
+
+```css
+header {
+  background-color: rebeccapurple;
+}
+
+header h1 {
+  /* Without this, the text will be touching the edge of the background color. */
+  padding: 1em;
+}
+```
+
+Second, we can "pull" the container open by declaring an explicit height to the container element. This method is great for creating hero sections.
+
+```css
+header {
+  height: 80vh;
+  background-color: rebeccapurple;
+}
+```
+
+### Vertically centering an element
+The "pull" method above is great for creating hero sections but it doesn't position our `h1` correctly. Let's use Flexbox to center the `h1` item within the `header` container.
+
+```css
+header {
+  height: 80vh;
+  background-color: rebeccapurple;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+```
+
+From there, you can zero in on your placement with `justify-content`, `align-items` and your basic box model properties.
 
 ## Activity: Optimize and extend
 - paired or team?

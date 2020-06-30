@@ -1,5 +1,5 @@
 ---
-title: "Day 0 Template"
+title: "Day 6: CSS Toggles with `element.classList`"
 date: 2020-06-25T08:00-03:00
 categories:
   - schedule
@@ -22,7 +22,7 @@ toc: true
 
 ### Live-code objectives
 
-### Activity 1: 
+### Activity 1 
 - individual or paired?
 - restate objective
 
@@ -50,7 +50,7 @@ toc: true
 
 [*break*]
 
-## Activity: Optimize and extend
+## Activity 3: Optimize and extend
 - Paired or team?
 - Code quality: 
   - properly indented, grouped and commented?
