@@ -5,7 +5,6 @@ categories:
   - schedule
 tags:
   - 
-published: false
 toc: true
 ---
 ## Reminders for Tony
