@@ -13,6 +13,10 @@ toc: true
 3. Record! Anyone else?
 
 ## Prep
+- Tissue Contrast Illusion
+  - [Browser Therapy Code Challenge](http://browsertherapy.com/challenges/tissue-contrast/)
+  - Optional: [Video Walk-through](https://youtu.be/izoeGPX5vfA)
+  - [Current Demo](https://acidtone.github.io/illusions/tissue-contrast/)
 
 ## Housekeeping
 
