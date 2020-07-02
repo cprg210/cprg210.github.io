@@ -17,10 +17,27 @@ toc: true
 - [Configuring Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 - [Why does GitHub recommend HTTPS over SSH?](https://stackoverflow.com/questions/11041729/why-does-github-recommend-https-over-ssh)
 
-## Housekeeping
+## Prerequisites 
+- Git installed
+- VS Code installed
+- Github Account created
+
+## Goal for today
+By the end of the day, you should have a local project repository "pushed" and synced to the remote copy located on GitHub.
+1. Create a new repository on Github. It should have a similar name to your local project.
+    - It should be public (but doesn't have to be)
+    - DO NOT initialize with a README.md
+    - Click "Create repository". Save the next page; it has important info.
+2. After creating your repo, you should see a list of instructions for different situations. We will start with the first one: "…or create a new repository on the command line".
+
+But FIRST! We need to learn some command line...
 
 ## Lecture 1: Command line basics
-Most of the command line tools we will be using in this course depend greatly on which folder you are in. We will cover the three system commands that help up us navigate the file system.
+Most of the command line tools we will be using in this course (like Git, [Node](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/)) will depend greatly on which folder you are in. We will cover the three system commands that help up us navigate the file system.
+
+Warning: There are two flavours of "command line": Windows and Unix. We will be using the latter: Git Bash (installed along with Git) on Windows and Terminal on Mac (Mac is unix-based so almost any terminal app will do; Tony uses iTerm). 
+{: .notice--warning}
+
 - `pwd`
   - displays your 'present working directory'. This will usually default to your home folder when you first open your terminal.
 - `ls`
@@ -38,8 +55,7 @@ Quality of life cli tips
 - tab: auto-completes file names and directories
 - up arrow: browse through command history
 
-### Live-code 1
-#### Objectives
+### Live-code objectives
 - What is the starting directory when you open a terminal on your system?
 - What files and directories are in this initial directory?
 - What file did you last open? Try to find it using only the terminal.
@@ -52,15 +68,43 @@ You will be working in teams. Make sure you have installed Git on your system. W
 Try navigating to various directories on your system to get accustomed to the command line.
 
 ## Lecture: Your first git repository (maybe)
+Let's go back to that page of instructions we received after creating our **GitHub** repo. Remember, we'll be starting with the top option: "…or create a new repository on the command line".
+
+### Top Git commands
+- `$ git status`: Show the current status of your repository (repo)
+- `$ git add`: Add file contents to be committed
+- `$ git commit`: Record changes to the repository
+- `$ git push`: Update remote refs along with associated objects
+- `$ git pull`: Fetch from and integrate with another repository or a local branch
 
 ### Live-code objectives
 - How will you organize your projects?
-- If you've just installed Git, set your name and email in the `git config` described in the Prep. 
+- If you've just installed Git, [set your name and email](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) using the `git config` command described in the Prep. 
 - Create a git repository for the project you've been working on in the HTML/CSS portion of this course.
+  1. Navigate to your project directory on the command line.
+  2. `git status` to make sure you are not already in a repo.
+  3. `git init` to initialize a new repo. This is usually done only once (if that) per project.
+  4. `git status` to see what files are modified/deleted/untracked.
+  5. `git add .` to add all your files for an initial commit
+  6. `git status` to double-check before you commit.
+  7. `git commit -m "concise description of your changes"` to commit your changes.
+  8. `git status` again to confirm that your "working directory is clean".
+  9. Make some changes to your code and start again at Step 4. You should be committing your changes multiple times a day.
 
-### Activity 2
-- individual or paired?
-- restate objective
+When you are ready, enter the last two lines of the GitHub instructions to attach and sync your local and remote repos.
+
+```shell
+$ git remote add origin https://github.com/acidtone/hello-world.git
+$ git push -u origin master
+```
+
+There are two ways to connect your system to GitHub: HTTPS and SSH. It's widely recommended that beginners use the HTTPS option. You will be asked for your login credentials the first time but your terminal should remember this for future connections.
+{: .notice}
+
+### Activity: Project work
+You will be working in teams. Work on your projects as you normally would, but try committing your changes as you go. Get used to the status/add/commit lifecycle of a professional developer.
+
+When you like what you see, push your changes to GH.
 
 ## Mid-day Huddle
 - who needs help?
@@ -69,12 +113,11 @@ Try navigating to various directories on your system to get accustomed to the co
 
 [*lunch*]
 
-## Pushing our repo to GitHub
-### Live-code objectives
-
-[*break*]
+## GitHub Tour
+Git is an open source tool that helps developers manage their code. GitHub is a company that has built a community around the Git technology.
 
 ## Activity 3: Publish your website to GH Pages
+
 
 ## Summary
 - any trophies?
