@@ -16,7 +16,7 @@ toc: true
 - Important: [JavaScript Tutorial for Beginners](https://youtu.be/W6NZfCO5SIk) by [Mosh Hamedani](https://codewithmosh.com/)
   - This is an excellent overview of the starter JS concepts you'll need for the rest of this course.
   - There is a handy Table of Contents in the video description.
-- Tissue Contrast Illusion: we will also be regularly borrowing code from this article.
+- Tissue Contrast Illusion: we will be regularly borrowing code from this article for our frontend Javascript lessons.
   - [Browser Therapy Code Challenge](http://browsertherapy.com/challenges/tissue-contrast/)
   - Optional: [Video Walk-through](https://youtu.be/izoeGPX5vfA)
   - [Current Demo](https://acidtone.github.io/illusions/tissue-contrast/)
@@ -24,13 +24,18 @@ toc: true
 ## Goal for the day
 By the end of the day, you should have a button that can add, remove and toggle CSS classes.
 
+### Topics Covered
+- HTML: `id` attribute
+- JS: [`Element.addEventListener()'](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+- JS: ['Element.classList'](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
+
 ## Lecture 1
 - topics covered?
 
 ### Live-code objectives
 
 ### Activity 1 
-- individual or paired?
+- Paired or team?
 - restate objective
 
 ## Lecture 2
@@ -40,7 +45,7 @@ By the end of the day, you should have a button that can add, remove and toggle 
 ### Live-code objectives
 
 ### Activity 2
-- individual or paired?
+- Paired or team?
 - restate objective
 
 ## Mid-day Huddle
