@@ -13,12 +13,16 @@ toc: true
 3. Record! Anyone else?
 
 ## Prep
-- Tissue Contrast Illusion
+- Important: [JavaScript Tutorial for Beginners](https://youtu.be/W6NZfCO5SIk) by [Mosh Hamedani](https://codewithmosh.com/)
+  - This is an excellent overview of the starter JS concepts you'll need for the rest of this course.
+  - There is a handy Table of Contents in the video description.
+- Tissue Contrast Illusion: we will also be regularly borrowing code from this article.
   - [Browser Therapy Code Challenge](http://browsertherapy.com/challenges/tissue-contrast/)
   - Optional: [Video Walk-through](https://youtu.be/izoeGPX5vfA)
   - [Current Demo](https://acidtone.github.io/illusions/tissue-contrast/)
 
-## Housekeeping
+## Goal for the day
+By the end of the day, you should have a button that can add, remove and toggle CSS classes.
 
 ## Lecture 1
 - topics covered?

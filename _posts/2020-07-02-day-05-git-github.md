@@ -25,7 +25,7 @@ toc: true
 ## Goal for today
 By the end of the day, you should have a local project repository "pushed" and synced to the remote copy located on GitHub.
 1. Create a new repository on Github. It should have a similar name to your local project.
-    - It should be public (but doesn't have to be)
+    - It needs to be public for GH Pages to work
     - DO NOT initialize with a README.md
     - Click "Create repository". Save the next page; it has important info.
 2. After creating your repo, you should see a list of instructions for different situations. We will start with the first one: "…or create a new repository on the command line".
@@ -117,7 +117,7 @@ When you like what you see, push your changes to GH.
 Git is an open source tool that helps developers manage their code. GitHub is a company that has built a community around the Git technology.
 
 ## Activity 3: Publish your website to GH Pages
-
+You will be working in teams. Go to [pages.github.com](https://pages.github.com/) to get a summary of what GH Pages is and how to use it. Work together to publish each of your projects to a GH Pages website.
 
 ## Summary
 - any trophies?
