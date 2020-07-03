@@ -35,15 +35,13 @@ Today will be an open workshop day to work on our assignments and side projects.
 - Open Q&A for Assignment 1 clarifications
 
 ### Activity 1: Open workshop
-You will work in teams. Exit to the main room for questions and troubleshooting help.
+You will work in teams for the day. Exit to the main room for questions and troubleshooting help.
 
 ## Lecture 2: Review
 - Tuesday walk-through and optimization
 - define utility classes for common design goals 
 
 ### Activity 2: Open workshop
-- individual or paired?
-- restate objective
 
 ## Mid-day Huddle
 - who needs help?
