@@ -11,3 +11,5 @@ title: "Zoom Recordings"
   - [Recording 1](https://zoom.us/rec/share/__JkNu3IqERJc7fx8RCDRq8AAoTFT6a81iYb_aYInkv4F9EuDCEa4Btn-QfL0f9a)
 - June 30: Flexbox Navigation
   - [Recording 1](https://zoom.us/rec/share/2vxvcq_77n9IQa_n5U-PUfYsN4L4T6a8g3UXq_VbnUZ-I7X-ezOrzfnHicQq0fZ-)
+- July 2: Git and GitHub
+  - [Recording 1](https://zoom.us/rec/share/3dJRPY32rV1JY8_d9VmDRYNmQKDCeaa8hyVM-6AIyE_QaadsHy7DxLwV0uNe3iqR)
