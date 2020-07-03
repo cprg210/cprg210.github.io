@@ -15,7 +15,7 @@ excerpt: "Friday! This will be an open workshop day to clean up code, self-study
 
 ## Housekeeping
 - [Announcing Assignment 1](https://github.com/cprg210/assignments/blob/master/assignment-1/README.md)
-- See [Assignment Breakdown](https://github.com/cprg210/assignments/)
+- [Course Assessment Schedule](https://github.com/cprg210/assignments/)
 
 ## Goals for today
 Today will be an open workshop day to work on our assignments and side projects.
