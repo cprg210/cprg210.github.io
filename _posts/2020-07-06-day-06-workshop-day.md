@@ -6,7 +6,7 @@ categories:
 tags:
   - 
 toc: true
-exerpt: "This will be an amazing day!"
+excerpt: "Friday! This will be an open workshop day to clean up code, self-study and work on Assignment 1."
 ---
 ## Reminders for Tony
 1. Put on mic
@@ -31,15 +31,13 @@ Today will be an open workshop day to work on our assignments and side projects.
   - [Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms)
 
 ## Lecture 1: Travel Experts Discussion
-- topics covered?
+- Open Q&A for Assignment 1 clarifications
 
 ### Activity 1: Open workshop
 You will work in teams. Exit to the main room for questions and troubleshooting help.
 
-## Lecture 2: Flexbox recap?
+## Lecture 2: Review
 - Tuesday walk-through and optimization
-
-### Live-code objectives
 - define utility classes for common design goals 
 
 ### Activity 2: Open workshop
