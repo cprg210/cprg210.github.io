@@ -1,11 +1,12 @@
 ---
-title: "Day 6: CSS Toggles with `element.classList`"
-date: 2020-07-03T08:00-03:00
+title: "Day 7: CSS Toggles with `element.classList`"
+date: 2020-07-06T08:00-03:00
 categories:
   - schedule
 tags:
   - 
 toc: true
+excerpt: For our first day of Javascript will modify our page styles with the `Element.classList` object.
 ---
 ## Reminders for Tony
 1. Put on mic

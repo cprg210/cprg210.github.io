@@ -7,6 +7,7 @@ tags:
   - 
 published: false
 toc: true
+exerpt: "This will be an amazing day!"
 ---
 ## Reminders for Tony
 1. Put on mic
@@ -15,7 +16,10 @@ toc: true
 
 ## Prep
 
-## Housekeeping
+## Prerequisites
+
+## Goal for today
+### Topics covered
 
 ## Lecture 1
 - topics covered?

@@ -6,6 +6,7 @@ categories:
 tags:
   - 
 toc: true
+excerpt: Git and GitHub will allow us to save our work, collaborate with team members and deploy our projects.
 ---
 ## Reminders for Tony
 1. Put on mic
