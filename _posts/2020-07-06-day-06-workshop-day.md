@@ -38,8 +38,11 @@ Today will be an open workshop day to work on our assignments and side projects.
 You will work in teams for the day. Exit to the main room for questions and troubleshooting help.
 
 ## Lecture 2: Review
-- Tuesday walk-through and optimization
-- define utility classes for common design goals 
+- Header page Codepen walk-through and optimization
+- Define utility classes for common design goals and move CSS to external stylesheets
+  - `reset.css`
+  - `typography.css`
+  - `main.css`
 
 ### Activity 2: Open workshop
 
@@ -51,7 +54,9 @@ You will work in teams for the day. Exit to the main room for questions and trou
 [*lunch*]
 
 ## Optional Lecture
-- anything you want your instructor to cover?
+- git collaborators
+- handling merge conflicts
+- git branches
 
 [*break*]
 
