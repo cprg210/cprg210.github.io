@@ -32,7 +32,7 @@ By the end of the day, you should have a button that toggles a CSS class.
 - JS: ['Element.classList'](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
   - [Code Examples](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList#Examples)
 - JS: [`Element.addEventListener()'](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
-  - * You will see `this` used a lot in examples online. For now, avoid the use of `this` until we cover it later in the course. If you just can't wait: [the value of `this` within an event handler](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener#The_value_of_this_within_the_handler)
+  - You will see the keyword `this` used a lot in examples online. For now, avoid the use of `this` until we cover it later in the course. If you just can't wait: [the value of `this` within an event handler](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener#The_value_of_this_within_the_handler)
 
 ## Topic 1: Introducing the Document Object Model (DOM) 
 When we target an HTML element (ex, a `<p>`) with a new CSS declaration (ex, `color: darkgoldenrod`), we are changing settings of the [Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model). 
