@@ -1,6 +1,6 @@
 ---
 title: "Day 7: CSS Toggles with `element.classList`"
-date: 2020-07-06T08:00-03:00
+date: 2020-07-07T08:00-03:00
 categories:
   - schedule
 tags:
@@ -12,6 +12,13 @@ excerpt: For our first day of Javascript will modify our page styles with the `E
 1. Put on mic
 2. Open Zoom chat
 3. Record! Anyone else?
+
+## Housekeeping
+- [PROJ 207 Group Assignment]({% link /assets/files/proj207-workshop-1.pdf %})
+  - Presentation: Friday, Aug 7
+  - Code submission deadline: Aug 10
+  - Group size: 3-4
+  - How do you want to choose groups?
 
 ## Prep
 - Important: [JavaScript Tutorial for Beginners](https://youtu.be/W6NZfCO5SIk) by [Mosh Hamedani](https://codewithmosh.com/)
