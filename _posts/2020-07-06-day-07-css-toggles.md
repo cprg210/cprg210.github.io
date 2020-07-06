@@ -37,7 +37,7 @@ By the end of the day, you should have a button that toggles a CSS class.
 ## Topic 1: Introducing the Document Object Model (DOM) 
 When we target an HTML element (ex, a `<p>`) with a new CSS declaration (ex, `color: darkgoldenrod`), we are changing settings of the [Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model). 
 
-### Live-code: Chatting with your browser elf using the Browser Console
+### Live-code objectives
 In this live-code session, we will explore the Firefox Console (Chrome works too).
 - Create an empty HTML file in your editor and view it in a browser.
 - Open the Inspector, navigate to the Console and enter the following as separate statements. What does the console return?
