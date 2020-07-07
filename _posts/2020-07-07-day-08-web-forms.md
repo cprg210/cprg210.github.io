@@ -60,6 +60,7 @@ Using `Element.innerHTML` let's display the result of our calculation on our HTM
 Extend the adding machine provided in the live code session and add support for subtraction, multiplication and division using a `select` menu.
 
 Supporting materials:
+- [Basic math in JavaScript - numbers and operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
 - [Making decisions in your code - conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 
 ## Optional Lecture
