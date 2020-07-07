@@ -13,6 +13,11 @@ excerpt: Javascript is often used to control web forms. In this session we will 
 2. Open Zoom chat
 3. Record! Anyone else?
 
+## Housekeeping
+- [Announcing Assignment 2](https://github.com/cprg210/assignments/blob/master/assignment-2/README.md)
+- [Course Assessment Schedule](https://github.com/cprg210/assignments/)
+
+
 ## Topics Covered
 - [Textbook Javascript Overview]({% link _pages/textbook.md %})
 - [How to structure a form](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form)
@@ -24,7 +29,7 @@ excerpt: Javascript is often used to control web forms. In this session we will 
   - [What's the difference between `HTMLElement` and `Element`?](https://stackoverflow.com/questions/6581680/whats-the-difference-between-htmlelement-and-element)
 
 ## Goal for the day
-By the end of the day, you should have a web form that updates page content with your name and favourite food.
+By the end of the day, you should have a form that can update content on a web page.
 
 [Dynamic Page Text Demo](https://codepen.io/browsertherapy/pen/xxZYemZ)
 
