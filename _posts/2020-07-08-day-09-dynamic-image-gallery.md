@@ -13,7 +13,10 @@ excerpt: Expanding on what we learned yesterday, we will add Lorem Picsum images
 2. Open Zoom chat
 3. Record! Anyone else?
 
-## Prep
+## Topics covered
+- [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
+- [Looping code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
+- [Object basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 
 ## Goal for the day
 By the end of the day, you should have a form that dynamically adds a gallery image based on the image ID submitted.
