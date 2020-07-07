@@ -42,20 +42,12 @@ We'll take a tour of the Javascript portion of the textbook and overview the maj
   - submit button
 - using a form handler, add the two numbers and display the sum to the console.
 
-### Activity: Calculator
-Extend the adding machine provided in the live code session and add support for subtraction, multiplication and division using a `select` menu.
-
 ## Topic 2: Displaying calculator results on a web page
 Using `Element.innerHTML` let's display the result of our calculation on our HTML page.
 
-### Live-code objectives:
+### Live-code objectives: Printing results
 - Add a heading or paragraph to the page containing your form.
 - Instead of logging the calculator result to the console, display the data in your new element using `Element.innerHTML`.
-
-### Activity: String concatenation
-Using template literals, display a sentence that summarizes the results of the calculator.
-
-"[number 1] [multiplied by|plus|minus|divided by] [number 2] equals [result]"
 
 ## Mid-day Huddle
 - who needs help?
@@ -64,11 +56,21 @@ Using template literals, display a sentence that summarizes the results of the c
 
 [*lunch*]
 
-## Topic 3: TBD
+### Activity: Calculator
+Extend the adding machine provided in the live code session and add support for subtraction, multiplication and division using a `select` menu.
 
-### Live-code objectives:
+Supporting materials:
+- [Making decisions in your code - conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 
-### Activity: 
+## Optional Lecture
+
+### Activity: String concatenation
+Using template literals, display a sentence that summarizes the results of the calculator and add it as content of a paragraph element.
+
+`[number 1] [multiplied by|plus|minus|divided by] [number 2] equals [result]`
+
+Supporting materials:
+- [Handling text - strings in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings#Concatenating_strings)
 
 ## Summary
 - any trophies?
