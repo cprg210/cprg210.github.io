@@ -1,5 +1,5 @@
 ---
-permalink: /textbook/
+permalink: /exercises/
 title: "MDN Exercises"
 toc: true
 ---
