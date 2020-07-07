@@ -1,8 +1,10 @@
 main:
   - title: "Textbook"
     url: /textbook/
-  - title: "Tools"
-    url: /tools/
+  - title: "Textbook"
+    url: /textbook/
+  - title: "Exercises"
+    url: /exercises/
   - title: "Resources"
     url: /resources/
   - title: "Recordings"

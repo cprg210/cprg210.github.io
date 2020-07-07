@@ -16,7 +16,7 @@ excerpt: Javascript is often used to control web forms. In this session we will 
 ## Housekeeping
 - [Announcing Assignment 2](https://github.com/cprg210/assignments/blob/master/assignment-2/README.md)
 - [Course Assessment Schedule](https://github.com/cprg210/assignments/)
-- [PROJ 207 Teams](https://github.com/cprg210/assignments/proj-207.md)
+- [PROJ 207 Teams](https://github.com/cprg210/assignments/blob/master/proj-207.md)
 
 ## Topics Covered
 - [Textbook Javascript Overview]({% link _pages/textbook.md %})
