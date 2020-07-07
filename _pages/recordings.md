@@ -13,4 +13,4 @@ title: "Zoom Recordings"
 - July 3: [Review and Open Workshop](https://zoom.us/rec/share/_sZTDpbL2npIZK_A9x2PS756IrS4aaa81ykXr_ENzRrNUpGC2DoPGCenPZLps22w)
 
 ## Javascript
-- July 6: CSS Toggles with `element.classList`
+- July 6: [CSS Toggles with `element.classList`](https://zoom.us/rec/share/7JdKF47a8GZIbbPI03HhdIgnIInIX6a8gyMeqKFenUwmdZC7rp_MMX16a29eq3F1)
