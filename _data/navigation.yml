@@ -1,10 +1,10 @@
 main:
   - title: "Textbook"
     url: /textbook/
-  - title: "Textbook"
-    url: /textbook/
   - title: "Exercises"
     url: /exercises/
+  - title: "Tools"
+    url: /tools.md/
   - title: "Resources"
     url: /resources/
   - title: "Recordings"
