@@ -13,6 +13,14 @@ excerpt: Expanding on what we learned yesterday, we will add Lorem Picsum images
 2. Open Zoom chat
 3. Record! Anyone else?
 
+## Housekeeping
+- Daily Schedule Update:
+  - Lunch: 11am-12:30pm
+  - End of day: 2pm
+- If you need extra help:
+  - There will be an open question period from 11-11:30am and 2-2:45pm.
+  - Tony will also be available for one-on-one sessions weekday evenings and Saturday afternoons. DM him in Discord to set up an appointment.
+
 ## Topics covered
 - [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
 - [Looping code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
@@ -26,7 +34,7 @@ Arrays are generally described as "list-like objects"; they are basically single
 
 We will be using the following sample code and images:
 
-https://github.com/cprg210/sample-code/tree/master/gallery-starter
+[Gallery starter code](https://github.com/cprg210/sample-code/tree/master/gallery-starter)
 
 ### Activity objectives:
 1. Using the sample Javascript code listed above, create a simple array containing the image IDs listed in [`gallery.js`](https://github.com/cprg210/sample-code/blob/master/gallery-starter/gallery.js).
