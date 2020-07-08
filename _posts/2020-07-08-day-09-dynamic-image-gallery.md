@@ -1,5 +1,5 @@
 ---
-title: "Day 9: Dynamic Image Gallery with JS and Web Forms"
+title: "Day 9: Dynamic Image Gallery with JS Loops"
 date: 2020-07-09T08:00-03:00
 categories:
   - schedule
