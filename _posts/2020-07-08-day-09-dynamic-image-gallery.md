@@ -6,7 +6,7 @@ categories:
 tags:
   - 
 toc: true
-excerpt: Expanding on what we learned yesterday, we will add Lorem Picsum images to a gallery based on form input.
+excerpt: Expanding on what we learned yesterday, we will add Lorem Picsum images to a gallery using a loop.
 ---
 ## Reminders for Tony
 1. Put on mic
@@ -19,22 +19,38 @@ excerpt: Expanding on what we learned yesterday, we will add Lorem Picsum images
 - [Object basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 
 ## Goal for the day
-By the end of the day, you should have a form that dynamically adds a gallery image based on the image ID submitted.
+By the end of the day, you should have a gallery that is dynamically built from an array using a loop.
 
-### Topics Covered
+## Topic 1: Creating an array
+Arrays are generally described as "list-like objects"; they are basically single objects that contain multiple values stored in a list. For today's activities we'll be using an array to display an image gallery.
 
-## Topic 1: Accessible forms
+We will be using the following sample code and images:
 
-### Live-code objectives:
+https://github.com/cprg210/sample-code/tree/master/gallery-starter
 
-### Activity: 
+### Activity objectives:
+1. Using the sample Javascript code listed above, create a simple array containing the image IDs listed in [`gallery.js`](https://github.com/cprg210/sample-code/blob/master/gallery-starter/gallery.js).
 
-## Topic 2: Stopping form submission with `event.preventDefault`
-- [event.preventDefault](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event#JavaScript)
+    ```js
+      const images = [237, 433, ...];
+    ```
 
-### Live-code objectives:
+2. Using `Element.innerHTML` display a random [Lorem Picsum](https://picsum.photos/) image (250px x 250px) on a web page using the following format:
 
-### Activity: 
+    ```html
+      <img src="https://picsum.photos/id/:imageId/250/250" alt="Random Lorem Picsum">
+    ```
+
+## Topic 2: Looping through an array
+Programming languages are very useful for rapidly completing repetitive tasks, from multiple basic calculations to just about any other situation where you've got a lot of similar items of work to complete. Here we'll use a loop structure to generate a list of HTML images.
+
+[Looping basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
+
+### Activity objectives: 
+1. Using the array created earlier and a `for` loop (or similar), log each image Id to the console.
+2. Using that same loop, generate a list of HTML images and add them to a web page using `Element.innerHTML`.
+    - hint: Javascript has an *addition assignment* operator that might help you glue strings together.
+4. Use `splice()` to show a subset of the image list (similar to a paginated web page).
 
 ## Mid-day Huddle
 - who needs help?
@@ -43,11 +59,25 @@ By the end of the day, you should have a form that dynamically adds a gallery im
 
 [*lunch*]
 
-## Topic 3: Modifying page text based on form input
+## Topic 3: Adding meta information to our gallery
+Our array of image IDs gets the job done but it would be nice to have more descriptive `alt` text. For this, we need more complex data structures.
 
-### Live-code objectives:
+### Activity objectives
+1. Refactor your array of image IDs to include the `title` from our original [source list](https://github.com/cprg210/sample-code/blob/master/gallery-starter/gallery.js). Instead of an array of numbers (the image IDs) use an array of arrays to include `title` as a second item for each image.
 
-### Activity: 
+    ```js
+    const images = [
+      [237, 'Puppy'],
+      [433, 'Bear'],
+      ...
+    ]
+    ```
+2. Refactor your HTML gallery to include the `title` as custom `alt` text for each image:
+
+    ```html
+    <img src="https://picsum.photos/id/:imageId/250/250" alt="[title]">
+    ```
+3. Try adding the `fileName` to your new array and link your images locally using the [source files](https://github.com/cprg210/sample-code/tree/master/gallery-starter/images) provided.
 
 ## Summary
 - any trophies?

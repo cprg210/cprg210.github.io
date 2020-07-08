@@ -14,3 +14,4 @@ title: "Zoom Recordings"
 
 ## Javascript
 - July 6: [CSS Toggles with `element.classList`](https://zoom.us/rec/share/7JdKF47a8GZIbbPI03HhdIgnIInIX6a8gyMeqKFenUwmdZC7rp_MMX16a29eq3F1)
+- July 7: [Modifying Page Text with JS and Web Forms](https://zoom.us/rec/share/5OBuJrbuyXFIbomV40bUa6APT4DAeaa82iRP_PsLmUdrE9zUE7024yUmYyfmqTSo)
