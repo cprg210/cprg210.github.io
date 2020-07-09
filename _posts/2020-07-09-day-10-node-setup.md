@@ -20,6 +20,9 @@ excerpt: We will be following the MDN Express/Mongoose tutorial modules for the 
 ## Goal for the day
 By the end of the day, you should have Node, NPM and Express Generator installed on your machine. 
 
+**Important:** Copy [this .gitignore file](https://github.com/cprg210/sample-code/blob/master/.gitignore) into any node/express project you are committing to GitHub. This will stop unwanted files (such as the node_modules directory) from being push to your remote repo.
+{: .notice--warning}
+
 ## Topic 1: Introduction to Node
 [Node](https://nodejs.org/) (or more formally Node.js) is an open-source, cross-platform runtime environment that allows developers to create all kinds of server-side tools and applications in JavaScript. The runtime is intended for use outside of a browser context (i.e. running directly on a computer or server OS). As such, the environment omits browser-specific JavaScript APIs and adds support for more traditional OS APIs including HTTP and file system libraries.
 
