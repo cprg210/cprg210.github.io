@@ -18,16 +18,16 @@ excerpt: Now that we have Node, NPM and Express installed on our machines, let b
 - [Express Tutorial Part 2: Creating a skeleton website](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website)
 
 ## Goal for the day
-By the end of the day, you should have an Express web server running on port 3000. It should be serving a Hello World website that we will extend later.
+By the end of the day, you should have an Express web server (running on port 3000) statically serving your travel website.
 
 ## Topic 1: The Big Picture
 Before we dig into the details, we'll take a look at the big picture from frontend to backend and everything in the middle:
 
 ### Activity objectives: 
-See the bottom of [Express Tutorial: The Local Library website](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website):
+Pull a new version of the [`sample-code`](https://github.com/cprg210/sample-code/) repository:
 
-1. Clone the complete [LocalLibrary project](https://github.com/mdn/express-locallibrary-tutorial)
-2. on the command line navigate to your new directory and install your dependencies:
+1. You'll find an example sample website at `/backend/static-express`. Copy this directory into your own working folder.
+2. On the command line navigate to your new directory and install the dependencies:
 
 ```shell
 $ npm install
@@ -36,21 +36,13 @@ $ npm install
 3. Now that your dependencies are installed, let's start up the server:
 
 ```shell
-$ npm run serverstart
+$ node app.js
 ```
 
-4. Checkout and expore the website at `localhost:3000`. We'll be using this example to illustrate various features as we build out the project.
+4. Checkout the website at `localhost:3000`. You'll be migrating your travel website into this project.
 
-## Topic 2: The Model View Controller (MVC) pattern
-See [MVC](https://developer.mozilla.org/en-US/docs/Glossary/MVC) in the MDN glossary
-
-MVC (Model-View-Controller) is a pattern in software design commonly used to implement user interfaces, data, and controlling logic. It emphasizes a separation between the software’s business logic and display. This "separation of concerns" provides for a better division of labor and improved maintenance. Some other design patterns are based on MVC, such as MVVM (Model-View-Viewmodel), MVP (Model-View-Presenter), and MVW (Model-View-Whatever).
-
-The three parts of the MVC software-design pattern can be described as follows:
-
-- Model: Manages data and business logic.
-- View: Handles layout and display.
-- Controller: Routes commands to the model and view parts.
+## Topic 2: Functions in-depth
+We will chat about proper terminology when using and discussing functions. See the sample files in the sample-code repo at `/_js/functions`.
 
 ## Mid-day Huddle
 - who needs help?
@@ -59,11 +51,15 @@ The three parts of the MVC software-design pattern can be described as follows:
 
 [*lunch*]
 
-### Activity objectives: TBD
+### Activity objectives: Separation of concerns
+In this activity you will migrate the current version of your travel website into the static-express project:
+1. Move your website into the `/public` directory.
+2. Start the server to confirm your website is displaying correctly.
+3. Separate your css, js and images into the appropriate directories. Your HTML should NOT have any *embedded* CSS (i.e. in a `<style>` element) or JS (i.e. in a `<script>` element)
 
-## Topic 3: TBD
+You are done for the day once you have your code separated and working correctly at `localhost:3000`;
 
-### Activity objectives: 
+## Open workshop time and Q&A
 
 ## Summary
 - any trophies?

@@ -1,6 +1,6 @@
 ---
-title: "Day 13: Routes and Controllers"
-date: 2020-07-14T08:00-03:00
+title: "Day 14: Controller - Routes and Endpoints"
+date: 2020-07-15T08:00-03:00
 categories:
   - schedule
 tags:

@@ -1,12 +1,12 @@
 ---
-title: "Day 15: working with Forms"
+title: "Day 15: Displaying Data and Working with Forms"
 date: 2020-07-16T08:00-03:00
 categories:
   - schedule
 tags:
   - 
 toc: true
-excerpt: Many sites allow the user to submit data to the server via a form. We'll explore how to handle these forms with Express and Pug.
+excerpt: We'll round out our Express knowledge with displaying data to the user and working with forms. 
 ---
 ## Reminders for Tony
 1. Put on mic
@@ -14,10 +14,11 @@ excerpt: Many sites allow the user to submit data to the server via a form. We'l
 3. Record! Anyone else?
 
 ## Topics Covered
+- [Express Tutorial Part 5: Displaying data](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Displaying_data)
 - [Express Tutorial Part 6: Working with forms](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/forms)
 
 ## Goal for the day
-By the end of the day, we should have a website that allows users to create, edit and delete items from our app.
+
 
 ## Topic 1:
 
