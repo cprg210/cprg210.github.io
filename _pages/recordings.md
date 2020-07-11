@@ -15,4 +15,10 @@ title: "Zoom Recordings"
 ## Javascript
 - July 6: [CSS Toggles with `element.classList`](https://zoom.us/rec/share/7JdKF47a8GZIbbPI03HhdIgnIInIX6a8gyMeqKFenUwmdZC7rp_MMX16a29eq3F1)
 - July 7: [Modifying Page Text with JS and Web Forms](https://zoom.us/rec/share/5OBuJrbuyXFIbomV40bUa6APT4DAeaa82iRP_PsLmUdrE9zUE7024yUmYyfmqTSo)
-- July 8: [Dynamic Image Gallery with JS Loops](https://zoom.us/rec/share/5c5NJrzs9jlJHYXd0R_-cfU4RZbvT6a81ncb-aBYyxp399-0rZGZEXANG6Lw0Zim)
+- July 8: Dynamic Image Gallery with JS Loops
+  - [Recording 1](https://zoom.us/rec/share/5c5NJrzs9jlJHYXd0R_-cfU4RZbvT6a81ncb-aBYyxp399-0rZGZEXANG6Lw0Zim)
+  - [Recording 2](https://zoom.us/rec/share/5c18frrJ0m5OZpHQzFvwYZAZB77IX6a8hiMW__NZyIAXfDa0XduHahY_WTa6fRY)
+- July 9: Setting up Node and NPM
+  - [Recording 1](https://zoom.us/rec/share/98dNNbb_zF1IHLPc1kjaf_EaO5S7aaa80yhL8vQLxRvXhva0wekKtDPYRYQfQGrr)
+  - [Recording 2](https://zoom.us/rec/share/5c18frrJ0m5OZpHQzFvwYZAZB77IX6a8hiMW__NZyIAXfDa0XduHahY_WTa6fRY)
+- July 10: [Creating a Static Express Website](https://zoom.us/rec/share/wvFSMbr-6GZLTrPfynCHa_YiXbn4T6a81SEa8_RYnxmbpzNTb4MNAyChPD5kjmNI)

@@ -1,5 +1,5 @@
 ---
-title: "Day 11: Creating a Skeleton Website"
+title: "Day 11: Creating a Static Express Website"
 date: 2020-07-10T08:00-03:00
 categories:
   - schedule
