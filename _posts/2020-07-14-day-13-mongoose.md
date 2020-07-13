@@ -14,6 +14,8 @@ excerpt: We've got a static web server. Let's make it more dynamic by adding a d
 3. Record! Anyone else?
 
 ## Topics Covered
+- [Using fetch()](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+  - Background: [Fetch API concepts](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [Express Tutorial Part 3: Using a Database (with Mongoose)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)
 - [Express Tutorial Part 7: Deploying to production](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/deployment)
 
