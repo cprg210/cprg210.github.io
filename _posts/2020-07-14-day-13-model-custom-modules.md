@@ -43,11 +43,7 @@ We will discuss the EJS alternative to Pug. While Pug has some great features, i
 
 By the end of this activity, you should have no static html files in your `public` directory. They should be moved to your `views` directory.
 
-## Topic 2: Model fixtures with `require()` and `module.exports`
-We will discuss the model in deeper detail. 
-- [Model-View-Controller](https://developer.mozilla.org/en-US/docs/Glossary/MVC)
-- [Function scope example](https://github.com/cprg210/sample-code/blob/master/_js/functions/4-scope.js)
-- [Requiring modules in Node.js: Everything you need to know](https://www.freecodecamp.org/news/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8/)
+
 
 ## Mid-day Huddle
 - who needs help?
@@ -56,7 +52,14 @@ We will discuss the model in deeper detail.
 
 [*lunch*]
 
+## Topic 2: Model fixtures with `require()` and `module.exports`
+We will discuss the model in deeper detail. 
+- [Model-View-Controller](https://developer.mozilla.org/en-US/docs/Glossary/MVC)
+- [Function scope example](https://github.com/cprg210/sample-code/blob/master/_js/functions/4-scope.js)
+- [Requiring modules in Node.js: Everything you need to know](https://www.freecodecamp.org/news/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8/)
+
 ### Activity objectives
+Assignment 1 and 2 linked your Destinations to random websites. Try creating a `destinations.js` module that you can use to import your destinations model into your app.
 
 ## Topic 3: Dynamic endpoint handlers with `request.params`
 See: 
