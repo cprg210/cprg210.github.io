@@ -38,6 +38,10 @@ We will discuss the EJS alternative to Pug. While Pug has some great features, i
 - [EJS tag reference](https://www.npmjs.com/package/ejs#tags)
 
 ### Activity objectives
+1. Choose an engine: Pug/EJS
+2. Convert your Assignment 2 html files to view files.
+
+By the end of this activity, you should have no static html files in your `public` directory. They should be moved to your `views` directory.
 
 ## Topic 2: Model fixtures with `require()` and `module.exports`
 We will discuss the model in deeper detail. 
