@@ -1,5 +1,5 @@
 ---
-title: "Day 13: Models - Routes and Custom Modules"
+title: "Day 13: Models, Routes and Custom Modules"
 date: 2020-07-14T08:00-03:00
 categories:
   - schedule

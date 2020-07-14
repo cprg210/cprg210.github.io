@@ -1,5 +1,5 @@
 ---
-title: "Day 14: Controller - JSON Endpoints"
+title: "Day 14: Controllers and JSON Endpoints"
 date: 2020-07-15T08:00-03:00
 categories:
   - schedule
