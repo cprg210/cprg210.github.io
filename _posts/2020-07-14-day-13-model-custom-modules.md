@@ -16,7 +16,7 @@ excerpt: Let's copy our Animal data (our model) from our frontend Javascript app
 ## Topics Covered
 1. EJS quickie
     - [EJS home page](https://ejs.co/)
-      - [EJS tag reference](https://www.npmjs.com/package/ejs#tags)
+    - [EJS tag reference](https://www.npmjs.com/package/ejs#tags)
 2. Model fixtures with`require()` and `module.exports`
     - [Model-View-Controller](https://developer.mozilla.org/en-US/docs/Glossary/MVC)
     - [Function scope example](https://github.com/cprg210/sample-code/blob/master/_js/functions/4-scope.js)
