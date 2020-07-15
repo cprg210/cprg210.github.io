@@ -14,20 +14,15 @@ excerpt: The last day of this course will be dedicated to cleaning up our projec
 3. Record! Anyone else?
 
 ## Topics Covered
-TBD
 
 ## Goal for the day
-TBD
+Last day of class! By the end of the day, you should have your Travel Experts website fully deployed to Heroku/Atlas. You will have protected your credentials using dotenv.
 
-## Topic 1:
+## Topic 1: Environment variables and dotenv
 
-### Live-code objectives:
+### Activity objectives:
 
-### Activity: 
-
-## Topic 2: 
-
-### Live-code objectives:
+## Topic 2: What is CORS and why do we care?
 
 ## Mid-day Huddle
 - who needs help?
@@ -36,13 +31,11 @@ TBD
 
 [*lunch*]
 
-### Activity: 
+### Activity objectives: Connecting Heroku to Atlas
 
-## Topic 3:
+## Topic 3: POST endpoints - Justice for jellyfish
 
-### Live-code objectives:
-
-### Activity: 
+### Activity objectives: `register.html` - starting your permission-based email list
 
 ## Summary
 - any trophies?

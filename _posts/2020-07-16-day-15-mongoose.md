@@ -18,17 +18,16 @@ excerpt: We've got a static web server. Let's make it more dynamic by adding a d
 - [Express Tutorial Part 7: Deploying to production](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/deployment)
 
 ## Goal for the day
-By the end of the day, you should have a MongoDB running on your server using Mongoose. It will be connected to your cloud-hosted Atlas Mongo database and the website should be deployed to Heroku.
+By the end of the day, you should have a Destinations model defined in your app using Mongoose. It will be connected to your cloud-hosted Atlas Mongo database.
 
-## Topic 1:
+**Important!** DO NOT push your connection code to a public repository until you learn about environment variables tomorrow. For now, either don't push today's code to Github or make your repository private.
+{: .notice--warning}
 
-### Live-code objectives:
+## Topic 1: Introduction to CRUD
 
-### Activity: 
+### Activity objectives: Setup MongoDB Atlas/Compass
 
-## Topic 2: 
-
-### Live-code objectives:
+## Topic 2: Connecting to Atlas
 
 ## Mid-day Huddle
 - who needs help?
@@ -37,13 +36,11 @@ By the end of the day, you should have a MongoDB running on your server using Mo
 
 [*lunch*]
 
-### Activity: 
+### Activity objectives: Connect Atlas -> Travel Experts
 
-## Topic 3:
+## Topic 3: Mongoose models
 
-### Live-code objectives:
-
-### Activity: 
+### Activity objectives: Seed database and migrate `GET /api/destinations` to Atlas
 
 ## Summary
 - any trophies?
