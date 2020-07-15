@@ -59,6 +59,13 @@ It's time to refactor your Destinations gallery loop.
 1. Instead of feeding your loop with a local data model (i.e. your image array), set up an asynchronous `fetch()` call that requests the data from your server instead.
 2. What other JSON API endpoints might come in handy for your project?
 
+## Homework
+It's time to try deploy your Travel Experts website on Heroku. You can work on this tonight and tomorrow. We will revisit this on Day 16. 
+
+Follow the instructions below to refactor your project to be compatible with the Heroku system.
+
+[Getting Started on Heroku with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
+
 ## Summary
 - any trophies?
 - prep for tomorrow?
