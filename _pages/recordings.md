@@ -22,3 +22,8 @@ title: "Zoom Recordings"
   - [Recording 1](https://zoom.us/rec/share/98dNNbb_zF1IHLPc1kjaf_EaO5S7aaa80yhL8vQLxRvXhva0wekKtDPYRYQfQGrr)
   - [Recording 2](https://zoom.us/rec/share/5c18frrJ0m5OZpHQzFvwYZAZB77IX6a8hiMW__NZyIAXfDa0XduHahY_WTa6fRY)
 - July 10: [Creating a Static Express Website](https://zoom.us/rec/share/wvFSMbr-6GZLTrPfynCHa_YiXbn4T6a81SEa8_RYnxmbpzNTb4MNAyChPD5kjmNI)
+- July 13: [Website Templates with Pug](https://zoom.us/rec/share/3_1_NrD20GNLGa-cwWv4Bp9mHqC4T6a8hyYWr_EMyUuHW7y4JBBv5qDq1rmGTxyW)
+- July 14: [Models, Routes and Custom Modules](https://zoom.us/rec/share/6fxvD470715IWpWX00XnapV-T5z0T6a80Ska-fdZyB0609buqbrm-OL_CnZOC1Xm)
+- July 15: [Controllers and JSON Endpoints](https://zoom.us/rec/share/9ed3Aau3pm1OeqeTwm_tWY97EsP6aaa81SVI-KcImEj-vZg7vgoGOiJ2LE7Q0eTJ)
+- July 16: Adding a Database with Mongoose 
+- July 17: Open Workshop Day 
