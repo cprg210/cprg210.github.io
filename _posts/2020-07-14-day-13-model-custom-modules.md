@@ -43,8 +43,6 @@ We will discuss the EJS alternative to Pug. While Pug has some great features, i
 
 By the end of this activity, you should have no static html files in your `public` directory. They should be moved to your `views` directory.
 
-
-
 ## Mid-day Huddle
 - who needs help?
 - any pivots?
