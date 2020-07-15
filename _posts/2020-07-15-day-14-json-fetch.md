@@ -33,8 +33,8 @@ By the end of the day, you'll have migrated a frontend javascript array to a Nod
 [JavaScript Object Notation](https://developer.mozilla.org/en-US/docs/Glossary/JSON) (JSON) is a standard text-based format for representing structured data based on JavaScript object syntax. It is commonly used for transmitting data in web applications (e.g., sending some data from the server to the client, so it can be displayed on a web page, or vice versa). You'll come across it quite often, so in this article we give you all you need to work with JSON using JavaScript, including parsing JSON so you can access data within it, and creating JSON.
 
 ### Activity objectives: Postman setup
-1. [Download and install Postman][https://www.postman.com/downloads/] ([Getting started](https://learning.postman.com/docs/getting-started/introduction/))
-2. Using Postman, explore this list of open JSON APIs. Are there any that could be used in your group project?
+1. [Download and install Postman](https://www.postman.com/downloads/) ([Getting started](https://learning.postman.com/docs/getting-started/introduction/))
+2. Using Postman, explore this [list of open JSON APIs](https://github.com/public-apis/public-apis). Are there any that could be used in your group project?
 3. Try submitting a POST request (with data) to the [JSON placeholder](https://jsonplaceholder.typicode.com/) `/posts` endpoint.
 
 ## Topic 2: Asynchronous Javascript basics
