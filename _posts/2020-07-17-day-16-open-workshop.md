@@ -14,15 +14,17 @@ excerpt: The last day of this course will be dedicated to cleaning up our projec
 3. Record! Anyone else?
 
 ## Topics Covered
+- [How to host a RESTful Node.js server with MongoDB Atlas database on Heroku](https://dev.to/cpclark360/how-to-host-a-restful-node-js-server-with-mongodb-atlas-database-on-heroku-1opl)
+- [Express Tutorial Part 7: Deploying to production](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/deployment)
 
 ## Goal for the day
 Last day of class! By the end of the day, you should have your Travel Experts website fully deployed to Heroku/Atlas. You will have protected your credentials using dotenv.
 
-## Topic 1: Environment variables and dotenv
+## Topic 1: What is CORS and why do we care?
 
 ### Activity objectives:
 
-## Topic 2: What is CORS and why do we care?
+## Topic 2: 
 
 ## Mid-day Huddle
 - who needs help?
