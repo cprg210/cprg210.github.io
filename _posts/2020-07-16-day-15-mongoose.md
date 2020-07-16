@@ -34,7 +34,7 @@ When we are building APIs, we want our models to provide four basic types of fun
 
 [Source](https://www.codecademy.com/articles/what-is-crud)
 
-### Activity objectives: Setup MongoDB Atlas/Compass w
+### Activity objectives: Setup MongoDB Atlas/Compass
 Follow the steps listed in this article: [Using Express with MongoDB Atlas](https://kaloraat.com/articles/how-to-use-mongodb-atlas)
 
 You will need to install two additional Node modules:
@@ -42,6 +42,16 @@ You will need to install two additional Node modules:
 ```shell
 $ npm install dotenv
 $ npm install mongoose
+```
+
+**MongoDB Connection String** The connection string that you copy and paste from the Connection window in MongoDB Atlas contains `<` and `>` characters. Be sure to remove those when you enter your DB name, username & password.
+{: .notice--warning}
+
+When you have completed the steps, your `.env` file should look something like this:
+
+```shell
+MONGODB_URL=mongodb+srv://kitten:hello-kitten@cluster0-1c2nl.mongodb.net/animals?retryWrites=true&w=majority
+PORT=3000
 ```
 
 ## Topic 2: Mongoose models
