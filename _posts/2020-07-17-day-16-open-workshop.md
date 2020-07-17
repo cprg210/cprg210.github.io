@@ -26,8 +26,18 @@ If we have time, we'll build a POST endpoint for handle form data.
 [New Assignment Breakdown](https://github.com/cprg210/assignments/)
 
 ### Activity objectives: Deploying your app to Heroku/Atlas
-Changes you need to make to your app to help it run on Heroku with Atlas:
-- Start script - Heroku needs to know what command to fun to start your server (i.e. `node app.js` or similar). This is added to your `package.json` file. 
+1. `$ npm install heroku`
+2. Add start script - Heroku needs to know what command to fun to start your server (i.e. `node app.js` or similar). This is added to your `package.json` file. 
+
+    ```json
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node app.js"
+    }, 
+    ```
+3. Push your repo to a public GH repository
+4. 
+  
 - `npm install cors` - Heroku needs to add CORS header (based on our code)
 
     ```js
