@@ -49,7 +49,7 @@ If you see and "Application Error" for your depolyed site, check the logs: `hero
 
 #### Frontend
 1. Change `fetch()` URL from `http://locahost:3000/api/desinations` to `http://[container-name].herokuapp.com/api/desinations`.
-2. `npm install cors` - Heroku needs to add CORS header (based on our code)
+2. Optional? `npm install cors` - Heroku needs to add CORS header (based on our code):
 
     ```js
     // cors origin URL - Allow inbound traffic from origin
@@ -60,6 +60,8 @@ If you see and "Application Error" for your depolyed site, check the logs: `hero
     app.use(cors(corsOptions));
     ```
 
+This step may be optional for some unknown reason but keep it in your back pocket just in case.
+{: .notice--warning}
 
 
 ## Topic 2: POST endpoints? - Justice for jellyfish
