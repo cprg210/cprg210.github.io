@@ -54,6 +54,12 @@ MONGODB_URL=mongodb+srv://kitten:hello-kitten@cluster0-1c2nl.mongodb.net/animals
 PORT=3000
 ```
 
+**Rename .env** Don't forget to rename `.env-sample` to `.env`.
+{: .notice--warning}
+
+**Common Connection Error** MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined".
+{: .notice--warning}
+
 ## Topic 2: Mongoose models
 For the your Travel Experts project we're going to use the Mongoose ODM to access our library data. Mongoose acts as a front end to MongoDB, an open source NoSQL database that uses a document-oriented data model. A “collection” of “documents” in a MongoDB database is analogous to a “table” of “rows” in a relational database.
 

@@ -18,13 +18,28 @@ excerpt: The last day of this course will be dedicated to cleaning up our projec
 - [Express Tutorial Part 7: Deploying to production](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/deployment)
 
 ## Goal for the day
-Last day of class! By the end of the day, you should have your Travel Experts website fully deployed to Heroku/Atlas. You will have protected your credentials using dotenv.
+Last day of class! By the end of the day, you should have your Travel Experts website fully deployed to Heroku/Atlas.
 
-## Topic 1: What is CORS and why do we care?
+If we have time, we'll build a POST endpoint for handle form data.
 
-### Activity objectives:
+## Topic 1: Final assignment
+[New Assignment Breakdown](https://github.com/cprg210/assignments/)
 
-## Topic 2: 
+### Activity objectives: Deploying your app to Heroku/Atlas
+Changes you need to make to your app to help it run on Heroku with Atlas:
+- Start script - Heroku needs to know what command to fun to start your server (i.e. `node app.js` or similar). This is added to your `package.json` file. 
+- `npm install cors` - Heroku needs to add CORS header (based on our code)
+
+    ```js
+    // cors origin URL - Allow inbound traffic from origin
+    corsOptions = {
+      origin: "https://dashboard.heroku.com",
+      optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
+    };
+    app.use(cors(corsOptions));
+    ```
+
+## Topic 2: POST endpoints? - Justice for jellyfish
 
 ## Mid-day Huddle
 - who needs help?
@@ -33,11 +48,7 @@ Last day of class! By the end of the day, you should have your Travel Experts we
 
 [*lunch*]
 
-### Activity objectives: Connecting Heroku to Atlas
-
-## Topic 3: POST endpoints - Justice for jellyfish
-
-### Activity objectives: `register.html` - starting your permission-based email list
+### Activity objectives: 
 
 ## Summary
 - any trophies?
