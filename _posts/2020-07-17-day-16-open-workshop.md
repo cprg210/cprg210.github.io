@@ -37,9 +37,9 @@ If we have time, we'll build a POST endpoint for handle form data.
     }, 
     ```
 3. Push your repo to a public GH repository
-4. New -> Creat New App
+4. Heroku: New -> Create New App
 5. Deployment method -> Connect to Github and select your source repository and Connect.
-6. "Heroku dashboard > Select your server App > Settings > Reveal Config Vars"
+6. Heroku: Dashboard > Select your server App > Settings > Reveal Config Vars"
     - add Atlas connection string
 7. Deploy branch
 8. Done!
