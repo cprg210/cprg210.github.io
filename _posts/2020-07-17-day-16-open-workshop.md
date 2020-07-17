@@ -26,6 +26,7 @@ If we have time, we'll build a POST endpoint for handle form data.
 [New Assignment Breakdown](https://github.com/cprg210/assignments/)
 
 ### Activity objectives: Deploying your app to Heroku/Atlas
+#### Heroku
 1. `$ npm install heroku`
 2. Add start script - Heroku needs to know what command to fun to start your server (i.e. `node app.js` or similar). This is added to your `package.json` file. 
 
@@ -36,9 +37,19 @@ If we have time, we'll build a POST endpoint for handle form data.
     }, 
     ```
 3. Push your repo to a public GH repository
-4. 
-  
-- `npm install cors` - Heroku needs to add CORS header (based on our code)
+4. New -> Creat New App
+5. Deployment method -> Connect to Github and select your source repository and Connect.
+6. "Heroku dashboard > Select your server App > Settings > Reveal Config Vars"
+    - add Atlas connection string
+7. Deploy branch
+8. Done!
+
+If you see and "Application Error" for your depolyed site, check the logs: `heroku logs --tail -a [container-name]`.
+{: .notice--warning}
+
+#### Frontend
+1. Change `fetch()` URL from `http://locahost:3000/api/desinations` to `http://[container-name].herokuapp.com/api/desinations`.
+2. `npm install cors` - Heroku needs to add CORS header (based on our code)
 
     ```js
     // cors origin URL - Allow inbound traffic from origin
@@ -48,6 +59,8 @@ If we have time, we'll build a POST endpoint for handle form data.
     };
     app.use(cors(corsOptions));
     ```
+
+
 
 ## Topic 2: POST endpoints? - Justice for jellyfish
 
