@@ -47,7 +47,7 @@ $ npm install dotenv
 $ npm install mongoose
 ```
 
-When you have completed the steps, your `.env` file should look something like this:
+When you have completed the steps in the linked tutorial, your `.env` file should look something like this:
 
 ```shell
 MONGODB_URL=mongodb+srv://kitten:hello-kitten@cluster0-1c2nl.mongodb.net/animals?retryWrites=true&w=majority
