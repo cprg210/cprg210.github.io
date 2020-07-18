@@ -37,6 +37,9 @@ When we are building APIs, we want our models to provide four basic types of fun
 ### Activity objectives: Setup MongoDB Atlas/Compass
 Follow the steps listed in this article: [Using Express with MongoDB Atlas](https://kaloraat.com/articles/how-to-use-mongodb-atlas)
 
+**Variable Name Suggestion** The above tutorial instructs you (at "Get Connection URI String") to use an environment name of `MONGO_URI` for your connection string. Instead, use `MONGODB_URL` since this is what Heroku uses when you deploy your website later in the course.
+{: .notice--warning}
+
 You will need to install two additional Node modules:
 
 ```shell
