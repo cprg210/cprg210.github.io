@@ -21,7 +21,7 @@ excerpt: We've got a static web server. Let's make it more dynamic by adding a d
 2. Mongoose Models
     - [Mongoose Getting Started](https://mongoosejs.com/docs/)
     - [Express Tutorial Part 3: Using a Database (with Mongoose)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)
-3. 
+3. If we have time: Exploring Mongoose CRUD operations
 
 ## Goal for the day
 By the end of the day, you should have a Destinations model defined in your app using Mongoose. It will be connected to your cloud-hosted Atlas Mongo database.
