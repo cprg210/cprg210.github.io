@@ -37,7 +37,7 @@ When we are building APIs, we want our models to provide four basic types of fun
 ### Activity objectives: Setup MongoDB Atlas/Compass
 Follow the steps listed in this article: [Using Express with MongoDB Atlas](https://kaloraat.com/articles/how-to-use-mongodb-atlas)
 
-**Rename .env** You've been given a sample environment file named `.env-sample`. You'll need to rename it to `.env` in order for the `dotenv` module to find it and import it into your app.
+**Rename .env-sample** You've been given a sample environment file named `.env-sample`. You'll need to rename it to `.env` in order for the `dotenv` module to find it and import it into your app.
 {: .notice}
 
 You will need to install two additional Node modules:
@@ -54,7 +54,7 @@ MONGODB_URL=mongodb+srv://kitten:hello-kitten@cluster0-1c2nl.mongodb.net/animals
 PORT=3000
 ```
 
-**Variable Name Suggestion**: The above tutorial instructs you (at "Get Connection URI String") to use an environment name of `MONGO_URI` for your connection string. Instead, use `MONGODB_URL` since this is what Heroku uses when you deploy your website later in the course.
+**Variable Name Suggestion**: The above tutorial instructs you (at "Get Connection URI String") to use an environment name of `MONGO_URI`. Instead, use `MONGODB_URL` since this is what Heroku uses when you deploy your website later in the course.
 {: .notice}
 
 **MongoDB Connection String** The connection string that you copy and paste from the Connection window in MongoDB Atlas contains `<` and `>` characters. Be sure to remove those when you enter your DB name, username & password.
