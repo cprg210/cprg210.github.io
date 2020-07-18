@@ -60,7 +60,7 @@ PORT=3000
 **MongoDB Connection String** The connection string that you copy and paste from the Connection window in MongoDB Atlas contains `<` and `>` characters. Be sure to remove those when you enter your DB name, username & password.
 {: .notice}
 
-**Common Connection Error** MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". This usually means your application is not reading your environment variable correctly. Double check your connection string, variable names and that your environment file is named `.env` and not `.env-sample`
+**Common Connection Error** `The 'uri' parameter to 'openUri()' must be a string, got 'undefined'` error usually means your application is not reading your environment variable correctly. Double check your connection string, variable names and that your environment file is named `.env`.
 {: .notice--warning}
 
 ## Topic 2: Mongoose models
