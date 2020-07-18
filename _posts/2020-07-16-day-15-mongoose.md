@@ -26,13 +26,13 @@ excerpt: We've got a static web server. Let's make it more dynamic by adding a d
 ## Goal for the day
 By the end of the day, you should have a Destinations model defined in your app using Mongoose. It will be connected to your cloud-hosted Atlas Mongo database.
 
-**Important!** DO NOT push your connection code to a public repository until you learn about environment variables tomorrow. For now, either don't push today's code to Github or make your repository private.
+**Important!** DO NOT push your connection code to a public repository until you learn about environment variables below. Either don't push today's code to Github or make your repository private.
 {: .notice--warning}
 
 ## Topic 1: Introduction to CRUD
 When we are building APIs, we want our models to provide four basic types of functionality. The model must be able to Create, Read, Update, and Delete resources. Computer scientists often refer to these functions by the acronym CRUD. A model should have the ability to perform at most these four functions in order to be complete. If an action cannot be described by one of these four operations, then it should potentially be a model of its own. 
 
-[Source](https://www.codecademy.com/articles/what-is-crud)
+[Continue Reading](https://www.codecademy.com/articles/what-is-crud)
 
 ### Activity objectives: Setup MongoDB Atlas/Compass
 Follow the steps listed in this article: [Using Express with MongoDB Atlas](https://kaloraat.com/articles/how-to-use-mongodb-atlas)
@@ -68,7 +68,7 @@ For the your Travel Experts project we're going to use the Mongoose ODM to acces
 
 This ODM and database combination is extremely popular in the Node community, partially because the document storage and query system looks very much like JSON, and is hence familiar to JavaScript developers.
 
-[Source](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)
+[Continue Reading](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)
 
 ## Mid-day Huddle
 - who needs help?
