@@ -25,5 +25,5 @@ title: "Zoom Recordings"
 - July 13: [Website Templates with Pug](https://zoom.us/rec/share/3_1_NrD20GNLGa-cwWv4Bp9mHqC4T6a8hyYWr_EMyUuHW7y4JBBv5qDq1rmGTxyW)
 - July 14: [Models, Routes and Custom Modules](https://zoom.us/rec/share/6fxvD470715IWpWX00XnapV-T5z0T6a80Ska-fdZyB0609buqbrm-OL_CnZOC1Xm)
 - July 15: [Controllers and JSON Endpoints](https://zoom.us/rec/share/9ed3Aau3pm1OeqeTwm_tWY97EsP6aaa81SVI-KcImEj-vZg7vgoGOiJ2LE7Q0eTJ)
-- July 16: Adding a Database with Mongoose 
-- July 17: Open Workshop Day 
+- July 16: [Adding a Database with Mongoose](https://zoom.us/rec/share/4NwyMKGgrE5IU9Ls-RyCAYIHQ5TLaaa80SQbrqJfyR7-RzFhcEQLO44Sv22P2kcs)
+- July 17: [Open Workshop Day](https://zoom.us/rec/share/4MtPKevs7GVIWdbC4kvbXb4vA4S-aaa82yIe_vRcnR4r7F-rQuvG3_sOTGIj7QGd)
