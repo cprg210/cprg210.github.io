@@ -14,7 +14,7 @@ excerpt: For our first day of Javascript will modify our page styles with the `E
 3. Record! Anyone else?
 
 ## Housekeeping
-- [PROJ 207 Group Assignment]({% link /assets/files/proj207-workshop-1.pdf %})
+- PROJ 207 Group Assignment (details listed on this home page)
   - Presentation: Friday, Aug 7
   - Code submission deadline: Aug 10
   - Group size: 3-4
