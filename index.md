@@ -12,6 +12,7 @@ author_profile: true
 - [Project Brief - Frontend]({% link /assets/files/proj207-frontend.pdf %})
 - [Project Brief - Node]({% link /assets/files/proj207-node.pdf %})
 - [Marking Rubric]({% link /assets/files/Proj207-rubric.xlsx %})
+- [Group Evaluation Rubric]({% link /assets/files/group-assessment-rubric.pdf %})
 - [MongoDB DB]({% link /assets/files/TravelExpertsMongo.zip %})
 - [MySQL DB]({% link /assets/files/travelexperts-mysql1.zip %})
 
