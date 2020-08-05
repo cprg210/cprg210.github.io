@@ -17,31 +17,31 @@ author_profile: true
 - [MySQL DB]({% link /assets/files/travelexperts-mysql1.zip %})
 
 ## Teams
-### Group 1
+### Bitz and Bytes
 - Dave
 - Joyce
 - Sean
 - Vadim
 
-### Group 2
+### Pocket Pill
 - Alejandro
 - Branden
 - Patrick
 - Titilope
 
-### Group 3
+### Json Byters
 - JC
 - Parvathy
 - Stevyn
 - Larisa
 
-### Group 4
+### AB_Go
 - Rafat
 - Wendy
 - Yin
 - Ying
 
-### Group 5
+### Important Bits
 - Aslam
 - Muna
 - Tarek
