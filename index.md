@@ -15,6 +15,36 @@ author_profile: true
 - [MongoDB DB]({% link /assets/files/TravelExpertsMongo.zip %})
 - [MySQL DB]({% link /assets/files/travelexperts-mysql1.zip %})
 
+## Teams
+### Group 1
+- Dave
+- Joyce
+- Sean
+- Vadim
+
+### Group 2
+- Alejandro
+- Branden
+- Patrick
+- Titilope
+
+### Group 3
+- JC
+- Parvathy
+- Stevyn
+- Larisa
+
+### Group 4
+- Rafat
+- Wendy
+- Yin
+- Ying
+
+### Group 5
+- Aslam
+- Muna
+- Tarek
+
 ### PROJ 207 - Group Charter
 Assign the key roles and responsibilities for each group member in delivering the project for PROJ 207. After each entry write a short summary defining their role and what their responsibilities are in the project. This charter will serve as the reference for any group mediation that is required.
 
