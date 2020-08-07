@@ -6,6 +6,13 @@ layout: home
 title: CPRG 210 Home Page
 author_profile: true
 --- 
+## Presentation Schedule
+- 10:00am - Json Byters
+- 10:30am - Pocket Pill
+- 11:00am - Important Bits
+- 11:30am - AB_Go
+- 12:00pm - Bitz and Bytes
+
 ## Course Rubric
 ### Presentation (10% - Group mark)
 - 1 point: Group appearance and uniform participation
